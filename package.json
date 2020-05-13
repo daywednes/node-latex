@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-latex": "^2.6.3"
+  }
+}
